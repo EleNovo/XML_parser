@@ -1,0 +1,11 @@
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\bin\Debug\xmlPars.exe.config
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\bin\Debug\xmlPars.exe
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\bin\Debug\xmlPars.pdb
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\xmlPars.csprojAssemblyReference.cache
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\xmlPars.Form.resources
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\xmlPars.Properties.Resources.resources
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\xmlPars.csproj.GenerateResource.cache
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\xmlPars.exe
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\xmlPars.pdb
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\Interop.LCC11.dll
+C:\Users\033NovozhilovaEE\Source\Repos\xmlPars\xmlPars\obj\Debug\xmlPars.csproj.ResolveComReference.cache
